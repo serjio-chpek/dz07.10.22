@@ -1,0 +1,16 @@
+D:\VSProjects\домашка\домашка\obj\Debug\net5.0\домашка.csproj.AssemblyReference.cache
+D:\VSProjects\домашка\домашка\obj\Debug\net5.0\домашка.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSProjects\домашка\домашка\obj\Debug\net5.0\домашка.AssemblyInfoInputs.cache
+D:\VSProjects\домашка\домашка\obj\Debug\net5.0\домашка.AssemblyInfo.cs
+D:\VSProjects\домашка\домашка\obj\Debug\net5.0\домашка.csproj.CoreCompileInputs.cache
+D:\VSProjects\домашка\домашка\bin\Debug\net5.0\домашка.exe
+D:\VSProjects\домашка\домашка\bin\Debug\net5.0\домашка.deps.json
+D:\VSProjects\домашка\домашка\bin\Debug\net5.0\домашка.runtimeconfig.json
+D:\VSProjects\домашка\домашка\bin\Debug\net5.0\домашка.runtimeconfig.dev.json
+D:\VSProjects\домашка\домашка\bin\Debug\net5.0\домашка.dll
+D:\VSProjects\домашка\домашка\bin\Debug\net5.0\ref\домашка.dll
+D:\VSProjects\домашка\домашка\bin\Debug\net5.0\домашка.pdb
+D:\VSProjects\домашка\домашка\obj\Debug\net5.0\домашка.dll
+D:\VSProjects\домашка\домашка\obj\Debug\net5.0\ref\домашка.dll
+D:\VSProjects\домашка\домашка\obj\Debug\net5.0\домашка.pdb
+D:\VSProjects\домашка\домашка\obj\Debug\net5.0\домашка.genruntimeconfig.cache
